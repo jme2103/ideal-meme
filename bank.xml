@@ -6,10 +6,18 @@
     <outcomes>
         <outcome>
             <title>Sample Outcome</title>
+            <slug>SB</slug>
+            <path>outcomes/SB/SB1</path>
+            <description>
+                Simplify the sum of two monomials.
+            </description>
+        </outcome>
+        <outcome>
+            <title>Sample Outcome</title>
             <slug>EX1</slug>
             <path>outcomes/EX1</path>
             <description>
-Simplify the sum of two monomials.
+                Simplify the sum of two monomials.
             </description>
         </outcome>
     </outcomes>
