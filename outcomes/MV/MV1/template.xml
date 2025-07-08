@@ -6,11 +6,11 @@
                     
                     <p>
             <image
-                source="assets/N1/generated/{{__seed__}}/surface.png"
+                source="assets/MV1/generated/{{__seed__}}/surface.png"
                 description="Three dimensional plot."/>
                         
             <image
-                source="assets/N1/generated/{{__seed__}}/contour.png"
+                source="assets/MV1/generated/{{__seed__}}/contour.png"
                 description="Contour plot."/>
                     </p>
                     <p>
