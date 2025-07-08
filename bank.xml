@@ -5,6 +5,30 @@
     <url>https://checkit.clontz.org</url>
     <outcomes>
         <outcome>
+            <title>Surfaces and Graphs</title>
+            <slug>MV1</slug>
+            <path>outcomes/MV/MV1</path>
+            <description>
+                Match graphs and contour plots with functions.
+            </description>
+        </outcome>
+        <outcome>
+            <title>Vector Arithmetic</title>
+            <slug>MV2</slug>
+            <path>outcomes/MV/MV2</path>
+            <description>
+                Vector addition, magnitude, and unit vectors.
+            </description>
+        </outcome>
+        <outcome>
+            <title>Vector Geometry</title>
+            <slug>MV3</slug>
+            <path>outcomes/MV/MV3</path>
+            <description>
+                Dot product, cross product, and vector projections.
+            </description>
+        </outcome>
+        <outcome>
             <title>Sample Outcome</title>
             <slug>SB</slug>
             <path>outcomes/SB/SB1</path>
